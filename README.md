@@ -52,6 +52,10 @@ breakdown, top-products table, and filters for Year/Month/State/Category. See
 **Q8** in the workbook for the explanation template to fill in once built, and static
 reference charts in `dashboard/dashboard_screenshots/`.
 
+
+## DashBoard link
+https://datastudio.google.com/reporting/7046cfb7-e220-4320-a6cc-46764ed82b10
+
 ## Files / Folders
 ```
 data-analyst-assessment/
